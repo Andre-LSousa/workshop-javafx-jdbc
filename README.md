@@ -21,7 +21,9 @@ LAYOUT DESKTOP
 
 
 
+
 TECNOLOGIAS UTILIZADAS
+
 Back end:
 Java
 MySQL
@@ -34,7 +36,9 @@ SceneBuilder
 
 
 COMO EXECUTAR O PROJETO
+
 Pré requisitos: JAVA 21
+#clonar repositório: 
 
 
 
