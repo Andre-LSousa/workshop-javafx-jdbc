@@ -43,17 +43,16 @@ Cria, Atualiza, e Exclui vendedores e departamentos
 
 <strong>Pré requisitos: JAVA 21</strong>
 
-<li>clonar o repositório <i>https://github.com/Andre-LSousa/MyApp-installation-package</i><br>
-<li>instalar o Java: https://www.oracle.com/technetwork/java/javase/downloads/index.html<br>
-<li>extrair os arquivos do arquivo ZIP para a pasta <i>C:\Program Files\Java</i> <br>
-<li>configure a variavel de ambiente JAVA_HOME com o caminho (ex: <i>C:\Program Files\Java\"SEU JDK")</i>, verique junto a este procedimento, em "editar a variavel de ambiente" se a variavel de ambiente <i>%JAVA_HOME%\bin</i> está relacionada na lista, caso não esteja, crie uma nova variavel. 
+<li>clonar o repositório "<i>https://github.com/Andre-LSousa/MyApp-installation-package</i>"<br>
+<li>instalar o Java em "<i>https://www.oracle.com/technetwork/java/javase/downloads/index.html</i>" e extrair os arquivos do arquivo ZIP para a pasta "<i>C:\Program Files\Java</i>" <br>
+<li>configure a variavel de ambiente "<i>JAVA_HOME</i>" com o caminho (ex: "<i>C:\Program Files\Java\"SEU JDK")</i>", verique junto a este procedimento, em "<i>editar a variavel de ambiente</i>" se a variavel de ambiente "<i>%JAVA_HOME%\bin</i>" está relacionada na lista, caso não esteja, crie uma nova variavel. 
 
-<li>extraia o arquivo <i>openjfx-21.0.6_windows-x64_bin-sdk.zip</i> e copie para a pasta <i>C:\java-libs</i> <br>
-<li>configure a variavel de ambiente: <i>PATH_TO_FX (ex: C:\java-libs\javafx-sdk\lib)</i><br>
-<li>copie o "mysql-connector" da pasta <i>workshop-javafx-jdbc_lib</i> e cole em <i>C:\java-libs\javafx-sdk\lib</i><br>
-<li>copie o arquivo <i>JAR & db.properties</i> para uma nova pasta (ex. MyApp)<br>
-<li>no prompt de comando utilize o comando <i>cd\MyApp</i> para acessar os arquivos instalados na pasta e utilize o comando <i> java --module-path %PATH_TO_FX% --add-modules javafx.controls,javafx.fxml -cp workshop-javafx-jdbc.jar application.Main</i>, para iniciar a aplicação.
-</body>
+<li>extraia o arquivo "<i>openjfx-21.0.6_windows-x64_bin-sdk.zip</i>" e copie para a pasta "<i>C:\java-libs</i>"<br>
+<li>configure a variavel de ambiente, "<i>PATH_TO_FX (ex: C:\java-libs\javafx-sdk\lib)</i>"<br>
+<li>copie o "<i>mysql-connector</i>" da pasta "<i>workshop-javafx-jdbc_lib</i>" e cole em "<i>C:\java-libs\javafx-sdk\lib</i>"<br>
+<li>copie o arquivo "<i>JAR & db.properties</i>" para uma nova pasta (ex. "<i>MyApp</i>")<br>
+<li>no prompt de comando utilize o comando "<i>cd\MyApp</i>" para acessar os arquivos instalados na pasta e utilize o comando, "<i> java --module-path %PATH_TO_FX% --add-modules javafx.controls,javafx.fxml -cp workshop-javafx-jdbc.jar application.Main</i>", para iniciar a aplicação.
+
 
 <br><br>
 AUTOR<br>
