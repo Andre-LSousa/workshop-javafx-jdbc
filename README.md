@@ -44,7 +44,7 @@ Cria, Atualiza, e Exclui vendedores e departamentos
 
 <h2>COMO EXECUTAR O PROJETO</h2>
 
-Pré requisitos: JAVA 21
+<h3>Pré requisitos: JAVA 21</h3>
 #clonar repositório: https://github.com/Andre-LSousa/MyApp-installation-package
 
 Instale Java: https://www.oracle.com/technetwork/java/javase/downloads/index.html<br>
