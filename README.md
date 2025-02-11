@@ -1,4 +1,4 @@
-[![NPM License](https://img.shields.io/npm/l/License)](https://github.com/Andre-LSousa/workshop-javafx-jdbc/blob/main/LICENSE)
+[![NPM License](https://img.shields.io/npm/l/react)](https://github.com/Andre-LSousa/workshop-javafx-jdbc/blob/main/LICENSE)
 
 
 
