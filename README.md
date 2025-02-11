@@ -38,8 +38,17 @@ SceneBuilder
 COMO EXECUTAR O PROJETO
 
 Pré requisitos: JAVA 21
-#clonar repositório: 
+#clonar repositório: https://github.com/Andre-LSousa/MyApp-installation-package
 
+Instale Java: https://www.oracle.com/technetwork/java/javase/downloads/index.html
+*extrair os arquivos do arquivo ZIP para a pasta C:\Program Files\Java 
+*configure a variavel de ambiente JAVA_HOME (ex: C:\Program Files\Java\"SEU JDK"), verique junto a este procedimento, em "editar a variavel de ambiente" se a variavel de ambiente %JAVA_HOME%\bin está relacionada na lista, caso não esteja, crie uma nova variavel. 
+
+Extraia o arquivo openjfx-21.0.6_windows-x64_bin-sdk.zip e copie para a pasta "C:\java-libs"
+*configure a variavel de ambiente: PATH_TO_FX (ex: C:\java-libs\javafx-sdk\lib)
+*copie o "mysql-connector" da pasta "workshop-javafx-jdbc_lib" e cole em "C:\java-libs\javafx-sdk\lib"
+*copie o arquivo JAR & db.properties para uma nova pasta (ex. MyApp)
+*no prompt de comando utilize o comando cd\MyApp para acessar os arquivos instalados na pasta e utilize o comando java --module-path %PATH_TO_FX% --add-modules javafx.controls,javafx.fxml -cp workshop-javafx-jdbc.jar application.Main, para rodar a aplicação.
 
 
 
