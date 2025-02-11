@@ -50,7 +50,7 @@ Cria, Atualiza e Exclui vendedores e departamentos
 <li>configure a variavel de ambiente, "<i>PATH_TO_FX</i> para <i>(ex: C:\java-libs\javafx-sdk\lib)</i>"<br>
 <li>copie o "<i>mysql-connector</i>" da pasta "<i>workshop-javafx-jdbc_lib</i>" e cole em "<i>C:\java-libs\javafx-sdk\lib</i>"<br>
 <li>copie o arquivo "<i>JAR & db.properties</i>" para uma nova pasta (ex. "<i>MyApp</i>")<br>
-<li>no prompt de comando utilize o comando "<i>cd\MyApp</i>" para acessar os arquivos instalados na pasta e utilize o comando, "<i>java --module-path %PATH_TO_FX% --add-modules javafx.controls,javafx.fxml -cp workshop-javafx-jdbc.jar application.Main</i>", para iniciar a aplicação.
+<li>no prompt de comando utilize o comando "<i>cd \MyApp</i>" para acessar os arquivos instalados na pasta e utilize o comando, "<i>java --module-path %PATH_TO_FX% --add-modules javafx.controls,javafx.fxml -cp workshop-javafx-jdbc.jar application.Main</i>", para iniciar a aplicação.
 
 
 <br><br>
