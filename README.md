@@ -20,19 +20,20 @@ LAYOUT DESKTOP
 ![Image](https://github.com/user-attachments/assets/a7f6b21f-76d7-4120-8408-af1e80acac02)
 
 
-TECNOLOGIAS UTILIZADAS
 
+TECNOLOGIAS UTILIZADAS
 Back end:
 Java
-Javafx
+MySQL
 Jdbc
 
 Front end: 
+JavaFX
 FXML
 SceneBuilder
 
-COMO EXECUTAR O PROJETO
 
+COMO EXECUTAR O PROJETO
 Pré requisitos: JAVA 21
 
 
