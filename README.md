@@ -9,9 +9,9 @@
 <br>
 <h1>SOBRE O PROJETO</h1>
 
-MyApp é uma aplicação full stack desktop, construída durante o curso JAVA COMPLETO, aplicado pela DevSuperior por meio da plataforma Udemy.
+MyApp é uma aplicação full stack desktop, construída durante o curso JAVA COMPLETO, aplicado pela DevSuperior por meio da plataforma Udemy. Este projeto tem como objetivo demonstrar o conhecimento técnico e a habilidade prática adquirida ao longo do curso, integrando o back-end e front-end de forma eficiente e intuitiva.
 
-A aplicação consiste no desenvolvimento de um aplicativo de sistema de gerenciamento para POS(Point of Sale), apresenta modelo de interface gráfica e permite executar consultas e manipular resultados com conexão a base de dados.
+A aplicação consiste no desenvolvimento de um aplicativo de sistema de gerenciamento POS(Point of Sale), apresenta modelo de interface gráfica e permite executar consultas e manipular resultados com conexão a base de dados.
 
 <br>
 <h2>FUNCIONALIDADES</h2>
