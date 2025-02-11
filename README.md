@@ -12,6 +12,40 @@ FUNCIONALIDADES
 
 Cria, Atualiza, e Exclui vendedores e departamentos
 
+LAYOUT DESKTOP
+
+![Image](https://github.com/user-attachments/assets/43badf12-d144-4b19-9d94-f3620c4dd124)
+![Image](https://github.com/user-attachments/assets/0dbacff1-0c4d-43ba-bdaa-5cdd4c6842ac)
+![Image](https://github.com/user-attachments/assets/fe5c2e52-5b03-402e-aae0-91d8b0859b49)
+![Image](https://github.com/user-attachments/assets/a7f6b21f-76d7-4120-8408-af1e80acac02)
+
+
+TECNOLOGIAS UTILIZADAS
+
+Back end:
+Java
+Javafx
+Jdbc
+
+Front end: 
+FXML
+SceneBuilder
+
+COMO EXECUTAR O PROJETO
+
+Pré requisitos: JAVA 21
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
