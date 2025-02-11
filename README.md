@@ -15,7 +15,7 @@ A aplicação consiste no desenvolvimento de um aplicativo de sistema de gerenci
 
 <br>
 <h2>FUNCIONALIDADES</h2>
-Cria, Atualiza, e Exclui vendedores e departamentos
+Cria, Atualiza e Exclui vendedores e departamentos
 
 <br><br>
 <h2>LAYOUT DESKTOP</h2>
@@ -46,7 +46,6 @@ Cria, Atualiza, e Exclui vendedores e departamentos
 <li>clonar o repositório "<i>https://github.com/Andre-LSousa/MyApp-installation-package</i>"<br>
 <li>instalar o Java em "<i>https://www.oracle.com/technetwork/java/javase/downloads/index.html</i>" e extrair os arquivos do arquivo ZIP para a pasta "<i>C:\Program Files\Java</i>" <br>
 <li>configure a variavel de ambiente "<i>JAVA_HOME</i>" com o caminho (ex: "<i>C:\Program Files\Java\"SEU JDK")</i>", verique junto a este procedimento, em "<i>editar a variavel de ambiente</i>" se a variavel de ambiente "<i>%JAVA_HOME%\bin</i>" está relacionada na lista, caso não esteja, crie uma nova variavel. 
-
 <li>extraia o arquivo "<i>openjfx-21.0.6_windows-x64_bin-sdk.zip</i>" e copie para a pasta "<i>C:\java-libs</i>"<br>
 <li>configure a variavel de ambiente, "<i>PATH_TO_FX (ex: C:\java-libs\javafx-sdk\lib)</i>"<br>
 <li>copie o "<i>mysql-connector</i>" da pasta "<i>workshop-javafx-jdbc_lib</i>" e cole em "<i>C:\java-libs\javafx-sdk\lib</i>"<br>
