@@ -52,6 +52,10 @@ Extraia o arquivo openjfx-21.0.6_windows-x64_bin-sdk.zip e copie para a pasta "C
 
 
 
+AUTOR 
+André Luiz de Sousa
+www.linkedin.com/in/andré-luiz-de-souza-0a061893
+
 
 
 
