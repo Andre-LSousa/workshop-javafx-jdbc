@@ -15,7 +15,7 @@ A aplicação consiste no desenvolvimento de um aplicativo de sistema de gerenci
 
 <br>
 <h2>FUNCIONALIDADES</h2>
-Cria, Atualiza e Exclui vendedores e departamentos
+Cria, Atualiza e Exclui entidades vendedores e departamentos.
 
 <br><br>
 <h2>LAYOUT DESKTOP</h2>
