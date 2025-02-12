@@ -40,40 +40,48 @@ Cria, atualiza e exclui entidades de vendedores e departamentos.
 <h2>PADRÕES DE PROJETO APLICADOS</h2>
 <body>
     <figure class="figure-container">
+        <img src="https://github.com/user-attachments/assets/87f77071-996d-480c-b059-3776cf625593" alt="Image 5" height="250" width="400"/>
+        <figcaption><h3>Padrao MVC/ camada MODEL</h3>
+        <li>A camada Model é fundamental para gerenciar a lógica de negócios e os dados de forma organizada e independente, garantindo que a aplicação seja robusta, e apresente fácil manutenibilidade.
+        </figcaption>
+    </figure><br><br><br>
+    <figure class="figure-container">
+        <img src="https://github.com/user-attachments/assets/d623a583-e8fc-40b6-80f4-d6e8c8a9c12d" alt="Image 6" height="250" width="400"/>
+        <figcaption><h3>Padrao MVC/ camada VIEW</h3>
+        <li>A implementação da camada View, é crucial para separar as responsabilidades e melhorar a manutenção do código. No código, temos um arquivo FXML que define a interface gráfica do usuário.    
+        </figcaption>
+    </figure><br><br><br>
+    <figure class="figure-container">
+        <img src="https://github.com/user-attachments/assets/0f70bcaf-d422-4573-adc6-a3d857b53695" alt="Image 7" height="250" width="400"/>
+        <figcaption><h3>Padrao MVC/ camada CONTROLLER</h3>
+        <li>A camada Controller atua como mediadora entre a View (interface do usuário) e o Model (dados e lógica de negócios). No código, ela reage às ações do usuário capturadas na View e interage com o Model para processar os dados.
+        </figcaption>
+    </figure><br><br><br>
+    <figure class="figure-container">
         <img src="https://github.com/user-attachments/assets/7a5bc5dc-5562-4000-a158-b90816f59614" alt="Image 1"  height="250" width="400"/>
         <figcaption>
             <h3>Padrão Factory</h3>
-            <li>A classe DaoFactory fornece métodos estáticos (createSellerDao e createDepartmentDao) para criar instâncias de DAOs (SellerDaoJDBC e DepartmentDaoJDBC), encapsulando a lógica de criação de objetos.
+            <li>A implementação do padrão Factory na classe DaoFactory simplifica a criação de objetos DAO (Data Access Object) e promove um design modular e flexível.
         </figcaption>
     </figure><br><br><br>
     <figure class="figure-container">
         <img src="https://github.com/user-attachments/assets/e1a88f2f-1149-477e-80ab-c643ce5b1fe9" alt="Image 2"  height="250" width="400"/>
         <figcaption><h3>Padrão Observer</h3>
-        <li>A Interface DataChangeListener define um método onDataChanged() que será implementado por classes que desejam ser notificadas quando há uma mudança nos dados. findAll</figcaption>
+        <li>A implementação do padrão Observer na interface DataChangeListener gerencia notificações de mudanças de dados de forma eficiente e desacoplada.
+        </figcaption>
     </figure><br><br><br>
     <figure class="figure-container">
         <img src="https://github.com/user-attachments/assets/16835dc6-cce6-43a7-92ea-9fba682ecbe2" alt="Image 3" height="250" width="400"/>
         <figcaption><h3>Padrão Singleton</h3>
-          <li>A classe DB possui um único atributo estático conn do tipo Connection, garantindo que somente uma instância de conexão será criada, método getConnection() verifica se a conexão conn é null. Se for, ele cria uma nova conexão. Caso contrário, retorna a conexão existente.
+          <li>A implementação do padrão Singleton na classe DB assegura que apenas uma única instância da conexão com o banco de dados seja criada durante a execução da aplicação.
         </figcaption>
     </figure><br><br><br>
     <figure class="figure-container">
         <img src="https://github.com/user-attachments/assets/bd309eec-485d-41da-8e2b-6538b5abe7cf" alt="Image 4" height="250" width="400"/>
         <figcaption><h3>Padrão DAO (Data Object Acces)</h3>
-        <li>A interface DepartmentDao define os métodos principais para a manipulação dos dados de Department no banco de dados, como insert, update, deleteById, findById e </figcaption>
-    </figure><br><br><br>
-    <figure class="figure-container">
-        <img src="https://github.com/user-attachments/assets/87f77071-996d-480c-b059-3776cf625593" alt="Image 5" height="250" width="400"/>
-        <figcaption></figcaption>
-    </figure><br><br><br>
-    <figure class="figure-container">
-        <img src="https://github.com/user-attachments/assets/d623a583-e8fc-40b6-80f4-d6e8c8a9c12d" alt="Image 6" height="250" width="400"/>
-        <figcaption></figcaption>
-    </figure><br><br><br>
-    <figure class="figure-container">
-        <img src="https://github.com/user-attachments/assets/0f70bcaf-d422-4573-adc6-a3d857b53695" alt="Image 7" height="250" width="400"/>
-        <figcaption></figcaption>
-    </figure>
+        <li>Implementar o padrão DAO (Data Access Object) na classe DepartmentDao gerencia a interação com o banco de dados de forma organizada e modular. </figcaption>
+    </figure><br>
+    
 </body>
 
 <br><br>
