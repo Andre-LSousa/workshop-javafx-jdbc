@@ -67,7 +67,7 @@ Cria, atualiza e exclui entidades de vendedores e departamentos.
     <figure class="figure-container">
         <img src="https://github.com/user-attachments/assets/e1a88f2f-1149-477e-80ab-c643ce5b1fe9" alt="Image 2"  height="250" width="400"/>
         <figcaption><h3>Padrão Observer</h3>
-        <li>A implementação do padrão Observer na interface DataChangeListener gerencia notificações de mudanças de dados de forma eficiente e desacoplada.
+        <li>A implementação do padrão Observer na interface DataChangeListener, tem objetivo de gerenciar notificações de mudanças de dados de forma eficiente e desacoplada.
         </figcaption>
     </figure><br><br><br>
     <figure class="figure-container">
