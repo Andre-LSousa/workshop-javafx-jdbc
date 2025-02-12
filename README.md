@@ -48,13 +48,13 @@ Cria, atualiza e exclui entidades de vendedores e departamentos.
     <figure class="figure-container">
         <img src="https://github.com/user-attachments/assets/d623a583-e8fc-40b6-80f4-d6e8c8a9c12d" alt="Image 6" height="250" width="400"/>
         <figcaption><h3>Padrao MVC/ camada VIEW</h3>
-        <li>A implementação da camada View, é crucial para separar as responsabilidades e melhorar a manutenção do código. No código, temos um arquivo FXML que define a interface gráfica do usuário.    
+        <li>A implementação da camada View separa as responsabilidades e melhora a manutenção do código. No código, temos um arquivo FXML que define a interface gráfica do usuário.    
         </figcaption>
     </figure><br><br><br>
     <figure class="figure-container">
         <img src="https://github.com/user-attachments/assets/0f70bcaf-d422-4573-adc6-a3d857b53695" alt="Image 7" height="250" width="400"/>
         <figcaption><h3>Padrao MVC/ camada CONTROLLER</h3>
-        <li>A camada Controller atua como mediadora entre a View (interface do usuário) e o Model (dados e lógica de negócios). No código, ela reage às ações do usuário capturadas na View e interage com o Model para processar os dados.
+        <li>A camada Controller atua como mediadora entre a View (interface do usuário) e o Model (dados e lógica de negócios), ela reage às ações do usuário capturadas na View e interage com o Model para processar os dados.
         </figcaption>
     </figure><br><br><br>
     <figure class="figure-container">
@@ -79,7 +79,7 @@ Cria, atualiza e exclui entidades de vendedores e departamentos.
     <figure class="figure-container">
         <img src="https://github.com/user-attachments/assets/bd309eec-485d-41da-8e2b-6538b5abe7cf" alt="Image 4" height="250" width="400"/>
         <figcaption><h3>Padrão DAO (Data Object Acces)</h3>
-        <li>Implementar o padrão DAO (Data Access Object) na classe DepartmentDao gerencia a interação com o banco de dados de forma organizada e modular. </figcaption>
+        <li>A implementação do padrao DAO neste projeto, tem o objetivo de gerenciar a interação com o banco de dados de forma organizada e modular. </figcaption>
     </figure><br>
     
 </body>
